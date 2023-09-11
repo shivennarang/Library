@@ -66,7 +66,3 @@ For any queries or feedback, reach out to [sggopi2002@gmail.com](mailto:sggopi20
 
 - Implementing user accounts for more personalized bookshelves.
 - Enhancing search capabilities with filters and sorts.
-
----
-
-Make sure to replace the placeholder `path-to-your-screenshot.png` with the actual path to your screenshot if you want to include a visual representation of your app in the README.
